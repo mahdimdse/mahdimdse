@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahdimdse
-- 👀 I’m interested in Node, PHP, React JS, Javascript, Electron JS, Typescript, JAVA, JQuery and whatever interests me.
+- 👀 I’m interested in NodeJS, PHP, React JS, Javascript, Electron JS, Typescript, JAVA, JQuery and whatever interests me.
 - 💞️ I’m looking to collaborate on any JS based projects
 - 📫 How to reach me email: mahdimohammad77@gmail.com
 
